@@ -1,0 +1,151 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+	background: url('img/pool_1800x1200.jpg');
+	background-size: cover;
+ 
+
+}
+.menu{
+    background: #130101fa;
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.menu ul li{
+    margin-bottom: 15px;
+    list-style: none;
+    display: inline-block;
+    margin-top: 15px;
+}
+.menu ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 20px;
+    text-transform: uppercase;
+}
+.menu ul li  a img{
+    max-width: 70px;
+}
+.menu ul li a:hover{
+	background: #96909091;
+	border-radius: 5px;
+}
+.sign-up{
+
+}
+.sign-up img{}
+.left-side{
+	width: 55%;
+	float: left;
+}
+.content{
+    color: #fff;
+    /* float: right; */
+    margin-top: 120px;
+    padding-left: 215px;
+}
+.content a{
+    border-radius: 30px;
+    margin: 15px 0px;
+    text-transform: capitalize;
+    padding: 15px;
+}
+.content h2{
+    text-transform: capitalize;
+    font-weight: 700;
+    /* margin: 0; */
+    font-size: 28px;
+    margin: 10px 0;
+}
+.content p{
+    font-size: 13px;
+    margin: -30ox 0px;
+    margin: 10px 0;
+}
+.content ul{
+    margin: 0;
+    padding: 0 15px 0;
+    font-size: 12px;
+    color: #e2dbdbd4;
+    font-weight: 500;
+}
+.content button{
+    /* margin: 0; */
+    padding: 11px;
+    margin-top: 14px;
+    border-radius: 30px;
+    background: #4b3898;
+    border: 0;
+    cursor: pointer;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.right-side{
+    float: left;
+    width: 45%;
+    margin-top: 48px;
+    /* margin-left: 1px; */
+    /* margin-right: 20px; */
+}
+.login{
+    position: relative;
+    background: #7662e247;
+    max-width: 360px;
+    margin: 0 auto;
+    padding: 45px;
+    text-align: CENTER;
+}
+.login input{
+    background: #f2f2f2;
+    outline: 1;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.login button{
+    text-transform: uppercase;
+    width: 100%;
+    outline: 0;
+    background: #2b1196;
+    border: 0;
+    padding: 15px;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+}
+.login h2{
+
+margin: 0;
+
+color: #fff;
+
+/* font-size: 27px; */
+}
+.login p{
+    font-size: 14px;
+    color: #c7bfbfa6;
+    font-weight: 400;
+}
+.sign-up-1{
+	width: 360px;
+	padding: 10% 0 0;
+}
+.murad{
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.murad button{}
+.murad button a{
+    text-decoration: none;
+    color: #f2f2f2;
+}
+/* next assignment strat */
